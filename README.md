@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="coding gif" />
 </p>
 
-<h1 align="center">Halo World! I'm Febryan Barahama 👋</h1>
+<h1 align="center">Hello World! I'm Febryan Barahama 👋</h1>
 
 <p align="center">
   Content Creator 🎥 | Web Developer 💻 
