@@ -16,12 +16,12 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryann&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="Bryann's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=febryanbarahama&show_icons=true&count_private=true&hide=prs&theme=tokyonight" alt="Bryann's GitHub Stats"/>
 </p>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryann&theme=tokyonight" alt="Bryann's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febryanbarahama&theme=tokyonight" alt="Febryan's Streak Stats" />
 </p>
 
 ---
